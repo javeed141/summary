@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.top-section {
+    background-image: linear-gradient(#7F00FF, #5D3FD3);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.top-section-title {
+    color: #B2BEB5;
+    font-size: 17px;
+}
+
+.round-button {
+    border-style: solid;
+    background-color: #BF40BF;
+    height: 120px;
+    width: 120px;
+    border-radius: 70px;
+    border-color: #BF40BF;
+}
+
+.number-76 {
+    color: white;
+    font-style: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.matter-76 {
+    color: #323f4b;
+    font-style: "Roboto";
+    font-weight: bold;
+}
+
+.great-matter-top-section {
+    color: #E5E4E2;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+/*  */
+.summary-heading {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.summary-section {
+    background-color: #f2f2f2;
+}
+
+.image-1 {
+    height: 25px;
+    align-content: left;
+}
+
+.image-1-matter {}
+
+.reaction-card {
+    background-color: #ffe6ea;
+    height: 50px;
+    border-radius: 5px;
+}
+
+.marks-top {
+    font-weight: bold;
+    color: #323f4b;
+}
+
+.reaction {
+    color: #ff1a40;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.marks {
+    text-align: right;
+    color: #808080;
+}
+
+.memory-card {
+    background-color: #ffffb3;
+    border-radius: 10px;
+}
+
+.verbal-card {
+    background-color: #ccffcc;
+    border-radius: 10px;
+}
+
+.visual-card {
+    background-color: #e6e6ff;
+    border-radius: 10px;
+}
+
+.button-continue {
+    background-color: #404040;
+    width: 99%;
+    height: 45px;
+    border: solid gray 1px;
+    color: white;
+    font-family: "Roboto";
+    font-size: 18px;
+    border-radius: 20px;
+}
+
+/* .heading-top-section{
+    border-style:solid;
+    color:white;
+    font-size:20px;
+    font-weight:bold;
+    
+} */
